@@ -1,7 +1,5 @@
 # 🧠 Multi-Agent AI System with Collaboration and Validation
 
-### 🔗 Live Demo: `http://localhost:8501` (or deployed URL, if any)
-
 ---
 
 ## 📍 Problem Statement
@@ -35,7 +33,7 @@ You can enter any medical paragraph, and the AI will summarize the key points us
 
 ## 📸 Screenshot
 
-![App Screenshot](https://github.com/your-username/your-repo/blob/main/screenshot.png)
+![App Screenshot]()
 
 ---
 
