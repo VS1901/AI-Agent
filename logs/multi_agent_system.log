@@ -1,1 +1,130 @@
-  hi
+2025-08-06T16:51:28.108847+0530 INFO [SummarizeTool] Sending messages to Ollama:
+2025-08-06T16:51:28.110471+0530 DEBUG   system: You are an AI assistant that summarizes medical texts.
+2025-08-06T16:51:28.110471+0530 DEBUG   user: Please provide a concise summary of the following medical text:
+
+Medicine encompasses the diagnosis, treatment, and prevention of diseases, as well as the promotion of health and well-being. It involves a wide range of practices, from conventional allopathic medicine (using drugs and surgery) to alternative and complementary therapies. Modern medicine heavily relies on biomedical sciences, research, and technology. 
+Here's a more detailed look:
+Key Aspects of Medicine:
+Diagnosis:
+Identifying the cause of illness through various tests and examinations.
+Treatment:
+Applying therapies (like medication, surgery, or other interventions) to manage or cure diseases.
+Prevention:
+Taking measures to avoid the onset or spread of diseases, including vaccinations and lifestyle changes.
+Health Promotion:
+Encouraging healthy behaviors and lifestyles to improve overall well-being.
+Medical Research:
+Investigating diseases and developing new treatments and preventative strategies. 
+Branches of Medicine:
+Medicine is a vast field with numerous specializations, including: 
+Cardiology: Deals with the heart and its diseases.
+Oncology: Focuses on cancer.
+Neurology: Concerned with the nervous system and its disorders.
+Pediatrics: Deals with the health of children.
+Psychiatry: Focuses on mental health and illnesses.
+Modern Medicine vs. Traditional Practices:
+Conventional (Allopathic) Medicine:
+Emphasizes the use of drugs and surgery, often supported by counseling and lifestyle changes, according to Medical News Today.
+Alternative and Complementary Medicine:
+Includes practices like acupuncture, herbal medicine, and traditional Chinese medicine. 
+Medicines and Their Role:
+Medicines, also known as drugs or pharmaceuticals, are substances used to treat, prevent, or diagnose diseases. 
+They can be derived from natural sources, synthesized in labs, or even created through genetic engineering. 
+Proper use of medicines is crucial: to avoid adverse side effects and ensure effective treatment. 
+Patients should always follow their doctor's instructions regarding dosage and frequency of medication. 
+Recent Developments in Medicine:
+Medical Research:
+Continued advancements in understanding diseases and developing new therapies. 
+Technology:
+The use of advanced technologies like medical devices, biologics, and gene therapies in diagnosis and treatment. 
+COVID-19 Research:
+Ongoing research into the long-term effects of COVID-19 and the development of vaccines and treatments. 
+Important Considerations:
+Side Effects:
+All medicines can have potential side effects, so it's essential to be aware of them and report any concerns to a healthcare professional. 
+Drug Interactions:
+Medicines can interact with each other, so it's crucial to inform your doctor about all medications you are taking. 
+Essential Medicines:
+The World Health Organization (WHO) publishes a list of essential medicines to guide countries in providing access to basic healthcare. 
+
+
+Summary:
+2025-08-06T16:51:28.125908+0530 ERROR [SummarizeTool] Error during Ollama call: model "llama3.2:3b" not found, try pulling it first (status code: 404). Retry 1/2
+2025-08-06T16:51:28.126855+0530 INFO [SummarizeTool] Sending messages to Ollama:
+2025-08-06T16:51:28.126855+0530 DEBUG   system: You are an AI assistant that summarizes medical texts.
+2025-08-06T16:51:28.127852+0530 DEBUG   user: Please provide a concise summary of the following medical text:
+
+Medicine encompasses the diagnosis, treatment, and prevention of diseases, as well as the promotion of health and well-being. It involves a wide range of practices, from conventional allopathic medicine (using drugs and surgery) to alternative and complementary therapies. Modern medicine heavily relies on biomedical sciences, research, and technology. 
+Here's a more detailed look:
+Key Aspects of Medicine:
+Diagnosis:
+Identifying the cause of illness through various tests and examinations.
+Treatment:
+Applying therapies (like medication, surgery, or other interventions) to manage or cure diseases.
+Prevention:
+Taking measures to avoid the onset or spread of diseases, including vaccinations and lifestyle changes.
+Health Promotion:
+Encouraging healthy behaviors and lifestyles to improve overall well-being.
+Medical Research:
+Investigating diseases and developing new treatments and preventative strategies. 
+Branches of Medicine:
+Medicine is a vast field with numerous specializations, including: 
+Cardiology: Deals with the heart and its diseases.
+Oncology: Focuses on cancer.
+Neurology: Concerned with the nervous system and its disorders.
+Pediatrics: Deals with the health of children.
+Psychiatry: Focuses on mental health and illnesses.
+Modern Medicine vs. Traditional Practices:
+Conventional (Allopathic) Medicine:
+Emphasizes the use of drugs and surgery, often supported by counseling and lifestyle changes, according to Medical News Today.
+Alternative and Complementary Medicine:
+Includes practices like acupuncture, herbal medicine, and traditional Chinese medicine. 
+Medicines and Their Role:
+Medicines, also known as drugs or pharmaceuticals, are substances used to treat, prevent, or diagnose diseases. 
+They can be derived from natural sources, synthesized in labs, or even created through genetic engineering. 
+Proper use of medicines is crucial: to avoid adverse side effects and ensure effective treatment. 
+Patients should always follow their doctor's instructions regarding dosage and frequency of medication. 
+Recent Developments in Medicine:
+Medical Research:
+Continued advancements in understanding diseases and developing new therapies. 
+Technology:
+The use of advanced technologies like medical devices, biologics, and gene therapies in diagnosis and treatment. 
+COVID-19 Research:
+Ongoing research into the long-term effects of COVID-19 and the development of vaccines and treatments. 
+Important Considerations:
+Side Effects:
+All medicines can have potential side effects, so it's essential to be aware of them and report any concerns to a healthcare professional. 
+Drug Interactions:
+Medicines can interact with each other, so it's crucial to inform your doctor about all medications you are taking. 
+Essential Medicines:
+The World Health Organization (WHO) publishes a list of essential medicines to guide countries in providing access to basic healthcare. 
+
+
+Summary:
+2025-08-06T16:51:28.130888+0530 ERROR [SummarizeTool] Error during Ollama call: model "llama3.2:3b" not found, try pulling it first (status code: 404). Retry 2/2
+2025-08-06T16:51:28.132929+0530 ERROR SummarizeAgent Error: [SummarizeTool] Failed to get response from Ollama after 2 retries.
+2025-08-06T16:52:26.252334+0530 INFO [SummarizeTool] Sending messages to Ollama:
+2025-08-06T16:52:26.252885+0530 DEBUG   system: You are an AI assistant that summarizes medical texts.
+2025-08-06T16:52:26.252885+0530 DEBUG   user: Please provide a concise summary of the following medical text:
+
+The first synthetic pharmaceutical, Aspirin, was introduced in 1897. Since then there have been incredible advances in drugs for a wide range of health concerns including disease, mental health and other conditions. Today there are thousands of drugs on the market able to prevent, treat and lessen the impact of ailments that would have been fatal just a few generations ago. At the same time, antimicrobial resistance is challenging the effectiveness of many commonly used medicines in one of the most concerning threats to global health today.
+
+Access to appropriate medications is shown to have substantial impacts on community health and the related economic indicators. Quality-assured, safe and effective medicines, vaccines and medical devices are fundamental to a functioning health system. However, globalized trade can undermine regulation, and in resource-limited settings especially, incidence of substandard or falsified medicines is growing. Working to increase access to essential pharmaceuticals while limiting the spread of falsified products is at the heart of WHO’s global strategy on medicines.
+
+ 
+
+Summary:
+2025-08-06T16:52:26.257156+0530 ERROR [SummarizeTool] Error during Ollama call: model "llama3.2:3b" not found, try pulling it first (status code: 404). Retry 1/2
+2025-08-06T16:52:26.257666+0530 INFO [SummarizeTool] Sending messages to Ollama:
+2025-08-06T16:52:26.259663+0530 DEBUG   system: You are an AI assistant that summarizes medical texts.
+2025-08-06T16:52:26.259663+0530 DEBUG   user: Please provide a concise summary of the following medical text:
+
+The first synthetic pharmaceutical, Aspirin, was introduced in 1897. Since then there have been incredible advances in drugs for a wide range of health concerns including disease, mental health and other conditions. Today there are thousands of drugs on the market able to prevent, treat and lessen the impact of ailments that would have been fatal just a few generations ago. At the same time, antimicrobial resistance is challenging the effectiveness of many commonly used medicines in one of the most concerning threats to global health today.
+
+Access to appropriate medications is shown to have substantial impacts on community health and the related economic indicators. Quality-assured, safe and effective medicines, vaccines and medical devices are fundamental to a functioning health system. However, globalized trade can undermine regulation, and in resource-limited settings especially, incidence of substandard or falsified medicines is growing. Working to increase access to essential pharmaceuticals while limiting the spread of falsified products is at the heart of WHO’s global strategy on medicines.
+
+ 
+
+Summary:
+2025-08-06T16:52:26.262316+0530 ERROR [SummarizeTool] Error during Ollama call: model "llama3.2:3b" not found, try pulling it first (status code: 404). Retry 2/2
+2025-08-06T16:52:26.263755+0530 ERROR SummarizeAgent Error: [SummarizeTool] Failed to get response from Ollama after 2 retries.
