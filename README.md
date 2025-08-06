@@ -33,7 +33,7 @@ You can enter any medical paragraph, and the AI will summarize the key points us
 
 ## 📸 Screenshot
 
-![App Screenshot]()
+![App Screenshot](https://github.com/VS1901/AI-Agent/blob/main/logo.png)
 
 ---
 
